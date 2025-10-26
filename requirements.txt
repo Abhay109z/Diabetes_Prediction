@@ -6,4 +6,3 @@ seaborn
 jupyter
 streamlit
 flask
-gunicorn
